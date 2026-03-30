@@ -1,3 +1,34 @@
-This folder is indexed by OpenClaw memory search.
+﻿# memory/
 
-Put Markdown notes here if you want them available for semantic recall.
+这个目录用于保存阶段性与每日记忆。
+
+## 用法
+
+### 每日记录
+
+文件格式：`YYYY-MM-DD.md`
+
+适合记录：
+- 当天发生了什么
+- 用户新提出的偏好或决定
+- 做过哪些重要操作
+- 后续需要跟进的事项
+
+### 长期记忆 vs 每日记录
+
+放进 `MEMORY.md` 的内容：
+- 稳定的偏好
+- 长期有效的身份/关系/工作方式
+- 重要决策
+- 需要长期保留的上下文
+
+只放在每日文件里的内容：
+- 临时过程
+- 当天的小插曲
+- 可能很快过时的细节
+
+## 建议
+
+- 先快速记到当天文件里，再定期整理进 `MEMORY.md`
+- 不要把明文密码、敏感 token、私钥写进记忆文件
+- 重要事项尽量写清日期、背景和结论
