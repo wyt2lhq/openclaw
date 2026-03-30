@@ -1,0 +1,30 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Node / package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OpenClaw runtime artifacts
+.openclaw/*.log
+.openclaw/tmp/
+.openclaw/cache/
+
+# Local memory state
+memory/heartbeat-state.json
