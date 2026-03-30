@@ -28,3 +28,6 @@ __pycache__/
 
 # Local memory state
 memory/heartbeat-state.json
+.openclaw/*.json
+!.openclaw/.gitkeep
+!.openclaw/README.md
